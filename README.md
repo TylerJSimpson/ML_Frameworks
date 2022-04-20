@@ -1,6 +1,5 @@
 # Machine Learning Frameworks
-## Based on machien learning teachings from 365 Data Science
-### Created using Google Colab and Jupyter Notebook
+### Created using Google Colab
 
 #### Linear Regression (OLS)
 #### Logistic Regression *coming soon*
