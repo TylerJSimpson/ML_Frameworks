@@ -1,7 +1,8 @@
 # Machine Learning Frameworks
-### Based on 365 Data Science courses
-### Created using Google Colab
+### SKLearn, TensorFlow2, SciPy
+### Created using Google Colab/Jupyer Notebooks
 
-#### Linear Regression (OLS)
-#### Logistic Regression
-#### Clustering
+* Linear Regression (OLS)
+* Logistic Regression
+* Clustering
+* Classification
