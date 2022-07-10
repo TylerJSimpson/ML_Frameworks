@@ -1,6 +1,7 @@
 def sigmoid(z):
     """
     Compute the sigmoid of z
+    
     Args:
         z (ndarray): A scalar, numpy array of any size.
     Returns:
