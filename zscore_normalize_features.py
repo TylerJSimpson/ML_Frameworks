@@ -16,7 +16,6 @@ def zscore_normalize_features(X):
     sigma  = np.std(X, axis=0)                  # sigma will have shape (n,)
     # element-wise, subtract mu for that column from each example, divide by std for that column
     X_norm = (X - mu) / sigma      
-
     return (X_norm, mu, sigma)
  
 #check our work
