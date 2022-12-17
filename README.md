@@ -1,6 +1,5 @@
 # Machine Learning Frameworks
-### SKLearn, TensorFlow2, SciPy
-### Created using Google Colab/Jupyer Notebooks
+## SKLearn, TensorFlow2, SciPy
 
 * Linear Regression (OLS)
 * Logistic Regression
